@@ -15,3 +15,5 @@ Facebook Application:-
 	-->Timeline Page Code
 	
 	-->Friend Request Page Code
+	
+	-->Live Video Code
