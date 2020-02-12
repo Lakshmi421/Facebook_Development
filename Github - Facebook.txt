@@ -1,19 +1,25 @@
 Facebook Application:-
 
-	-->Home Page Code
+	Home Page Code
 
-	-->Chat Page Code
+	Chat Page Code
 
-	-->News Page Code
+	News Page Code
 
-	-->Settings
+	Settings
 
-	-->Profile Page Code
+	Profile Page Code
 	
-	-->Notification Page 
+	Notification Page 
 
-	-->Timeline Page Code
+	Timeline Page Code
 	
-	-->Friend Request Page Code
+	Friend Request Page Code
 	
-	-->Live Video Code
+	Live Video Code
+	
+	Groups Page Code
+	
+	Events Page Code
+
+	Status Post Page
