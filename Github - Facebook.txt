@@ -24,4 +24,5 @@ Facebook Application:-
 
 	Status Post Page
 	
-	Playing Games From 6 am to 12pm
+	Playing Games From 6am to 6pm
+
