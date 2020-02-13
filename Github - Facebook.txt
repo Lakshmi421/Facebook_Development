@@ -4,8 +4,6 @@ Facebook Application:-
 
 	Chat Page Code
 
-	News Page Code
-
 	Settings
 
 	Profile Page Code
@@ -21,8 +19,7 @@ Facebook Application:-
 	Groups Page Code
 	
 	Events Page Code
-
-	Status Post Page
 	
 	Playing Games From 6am to 6pm
 
+	Attachments (Images, Audios, Videos)
